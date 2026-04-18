@@ -1,2 +1,3 @@
 # Xcom2-RandomNameGenerator
 This is a badly made Python Script that instead of modifying one by one each current names in the files, will instead from a random pool of names you have inputed will generate a huge list that you simply copy past in the game's character pool.
+To use it you need a pythong interpreter, I use pycharm and its free, I have already put planty of names innit, to change the pool of names you simply go into names--> and change the names listed in the list "TabDeNom" they are needed to be specified as strings and have a "," between each other, like in the file, then you simpply run it and you copy past the list it gave you, without copying the None and process finnish name.
